@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Studio (Java)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
 - 📫 How to reach me **aryaptradji@gmail.com**
 
