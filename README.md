@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaptradji&label=Profile%20views&color=0e75b6&style=flat" alt="aryaptradji" /> </p>
 
-- 🌱 I’m currently learning **Android Studio (Java)**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
