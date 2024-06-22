@@ -44,10 +44,10 @@
 
 <div align="center">
 <a href="https://github.com/aryaptradji">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryaptradji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryaptradji&layout=compact&langs_count=8&theme=dracula"/>
-  <img src="https://streak-stats.demolab.com?user=aryaptradji&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aryaptradji&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryaptradji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryaptradji&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=aryaptradji&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=aryaptradji&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </a>
 </div>
 
